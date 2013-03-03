@@ -16,3 +16,7 @@ places
 .smex-items
 savefile/
 /prelude-modules.el
+
+var/
+tramp
+projectile-bookmarks.eld
